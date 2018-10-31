@@ -3,7 +3,7 @@
 Summary: 	A Python mocking and patching library for testing
 Name:		python-%{module}
 Version:	1.0.1
-Release:	2
+Release:	3
 Source0:	http://pypi.python.org/packages/source/m/%{module}/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
