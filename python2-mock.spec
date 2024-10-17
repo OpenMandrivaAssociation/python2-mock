@@ -7,7 +7,7 @@ Release:	3
 Source0:	http://pypi.python.org/packages/source/m/%{module}/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
-Url:		http://www.voidspace.org.uk/python/mock/
+Url:		https://www.voidspace.org.uk/python/mock/
 BuildArch:	noarch
 BuildRequires:	python2-setuptools
 
